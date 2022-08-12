@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533044548504",
+    "project_id": "onlinequiz-ceccc",
+    "storage_bucket": "onlinequiz-ceccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533044548504:android:05252902f4dcd58c6e51ed",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533044548504-trbltk9imh70cufvo1v520e1v923kk8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz",
+            "certificate_hash": "cfa03119fb021c7f533e9b4a97fabaf654edb6b1"
+          }
+        },
+        {
+          "client_id": "533044548504-e00ldo7l56lfcusnst81e13mo6dpgrhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2jirZpZk8Xi63_c_v3G-WbavUiaQ3Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533044548504-e00ldo7l56lfcusnst81e13mo6dpgrhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

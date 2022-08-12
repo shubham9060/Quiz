@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Success_textcolor">#fff</color>
+    <color name="startnewquiz_textcolor">#fff</color>
+    <color name="correctanswer_textcolor">#00C853</color>
+    <color name="wronganswe_textcolor">#DD2C00</color>
+    <color name="topicColor">#F4EFEF</color>
+    <color name="quizBackground">#0D1F688B</color>
+    <color name="topic_color">#0B0A0A</color>
+    <color name="timercolor">#0C0B0B</color>
+    <color name="question_color">#CC000000</color>
+    <color name="option1_color">#1F688B</color>
+    <color name="option2_color">#1F688B</color>
+    <color name="option3_color">#1F688B</color>
+    <color name="option4_color">#1F688B</color>
+    <color name="nextbutton_color">#fff</color>
+    <color name="tvJavaColor">#090101</color>
+    <color name="tvAndroidColor">#090101</color>
+    <color name="btnStartQuizColor">#fff</color>
+</resources>
